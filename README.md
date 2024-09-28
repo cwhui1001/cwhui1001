@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/Mobile Development
 - 🌱 I’m currently studying Diploma in Information Technology
 - 💞️ I’m looking to collaborate on any competition and hackathons
-- 📫 How to reach me : cwenhui10@gmail.com   linkedin.com/in/gracelyn-chong-015a80271
+- 📫 Reach me at cwenhui10@gmail.com   
 - 😄 Pronouns: Gracelyn
 - ⚡ Fun fact: haha coding can be very fun
 
