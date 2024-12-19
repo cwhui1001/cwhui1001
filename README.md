@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @cwhui1001
-- 👀 I’m interested in Web/Mobile Development
-- 🌱 I’m currently studying Diploma in Information Technology
-- 💞️ I’m looking to collaborate on any competition and hackathons
-- 📫 Reach me at cwenhui10@gmail.com   
-- 😄 Pronouns: Gracelyn
-- ⚡ Fun fact: haha coding can be very fun
+# Gracelyn Chong Wen Hui's Profile
 
-<!---
-cwhui1001/cwhui1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hello there!
+I'm **Gracelyn Chong Wen Hui**, a passionate web and mobile developer currently pursuing a **Diploma in Information Technology**. I love exploring technology and creating innovative solutions. I enjoy collaborating on projects, especially in competitions and hackathons. Feel free to connect if you'd like to collaborate or chat about development!
+
+## 🌱 What I'm Learning
+I am currently deepening my skills in **Web Development** and **Mobile App Development**, constantly experimenting with new technologies to stay up to date with the fast-changing tech world.
+
+## 💞️ Looking to Collaborate
+I'm always on the lookout for exciting **competitions** and **hackathons** to participate in, as I love tackling challenges and collaborating with like-minded individuals. If you're organizing one or need a teammate, let me know!
+
+## 📫 How to Reach Me
+- Email: [cwenhui10@gmail.com](mailto:cwenhui10@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/gracelyn-chong-wen-hui-015a80271/
+
+## 😄 Fun Fact
+Haha, coding can be **super fun**! There’s nothing like the feeling of solving a problem and seeing your work come to life.
+
+## ⚡ Pronouns
+- **She/Her**
