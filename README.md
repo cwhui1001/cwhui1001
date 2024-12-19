@@ -1,7 +1,7 @@
 # Gracelyn Chong Wen Hui's Profile
 
 ## 👋 Hello there!
-I'm **Gracelyn Chong Wen Hui**, a passionate web and mobile developer currently pursuing a **Diploma in Information Technology**. I love exploring technology and creating innovative solutions. I enjoy collaborating on projects, especially in competitions and hackathons. Feel free to connect if you'd like to collaborate or chat about development!
+I'm **Gracelyn Chong Wen Hui**, a passionate student currently pursuing a **Diploma in Information Technology**. I love exploring technology and creating innovative solutions. I enjoy collaborating on projects, especially in competitions and hackathons. Feel free to connect if you'd like to collaborate or chat about development!
 
 ## 🌱 What I'm Learning
 I am currently deepening my skills in **Web Development** and **Mobile App Development**, constantly experimenting with new technologies to stay up to date with the fast-changing tech world.
