@@ -14,7 +14,7 @@ I'm always on the lookout for exciting **competitions** and **hackathons** to pa
 - LinkedIn: https://www.linkedin.com/in/gracelyn-chong-wen-hui-015a80271/
 
 ## 😄 Fun Fact
-Haha, coding can be **super fun**! There’s nothing like the feeling of solving a problem and seeing your work come to life.
+Haha, coding can be **super fun**! 
 
 ## ⚡ Pronouns
 - **She/Her**
